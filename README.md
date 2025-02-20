@@ -39,9 +39,6 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/ishashwatthakur/Vaantram.git 
 
-__To install the necessary dependencies and set up the API and database, I recommend checking out my YouTube tutorial series where I walk you through the entire process of building an AI assistant.__
-
-
 ### Activating the Assistant
 There are several ways to activate Vaantram:
 
@@ -62,12 +59,8 @@ Ask Vaantram questions, and it will answer using the Hugging Face API, a free Ch
 - "Open Canva"
 
 #### Multimedia Search
-- "Play the video of the 99 names of Allah on YouTube"
 
 #### Phone and Messaging
-- "Vaantram, make a phone call to Ali Hassan"
-- "Vaantram, send a message to Ali Hassan"
-- "Vaantram, make a video call on WhatsApp"
 
 ### Future Enhancements
 - **Custom Application and Website Management:** Users will be able to add their applications and websites without needing to work with databases or SQL.
@@ -76,7 +69,3 @@ Ask Vaantram questions, and it will answer using the Hugging Face API, a free Ch
 
 ## Contributing
 Feel free to open issues or submit pull requests to improve the project. Contributions are welcome, whether it’s adding new features, fixing bugs, or improving documentation.
-
-## Feedback
-If you have any suggestions or want to request additional features, leave a comment on the YouTube tutorial series. Your feedback is highly appreciated!
-
